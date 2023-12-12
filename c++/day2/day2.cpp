@@ -2,6 +2,8 @@
 #include <sstream>
 #include <string>
 
+#include "AocProblem.h"
+
 #define MAX_RED 12
 #define MAX_GREEN 13
 #define MAX_BLUE 14
